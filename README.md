@@ -23,3 +23,14 @@ Firstly, the model is validated with experimental data from normal walking. To d
 1.	Sudden loss in loading afferents
 2.	Change in walking speed
 3.	Silly walks
+
+## Conclusion
+An SPG model was developed and validated for normal walking ([Chong et al., 2012](https://link.springer.com/article/10.1007/s11517-012-0944-2)). This has strong implications into how humans possess the ability to adapt to changes to sensory afferents in our daily movements ([Cognitive Systems book series](https://link.springer.com/chapter/10.1007/978-3-642-36368-9_20)).
+
+We proposed that SPG in the spinal cord can interpret and respond accordingly to velocity-dependent afferent information. Changes in walking speed do not require a different motor control mechanism provided equilibrium is not affected and there is no disruption of the continuous rhythmic patterns produced at the ankle ([Chong et al., 2013](https://tbiomed.biomedcentral.com/articles/10.1186/1742-4682-10-9)).
+
+## Worthy mention
+Our silly walks study was mentioned by [Improbable Research](https://www.improbable.com/2013/09/20/silly-walk-studies-2/), organizer of the IgNobel awards.
+
+
+
