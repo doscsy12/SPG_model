@@ -1,7 +1,7 @@
 # Spinal pattern generator (SPG) model
 Investigating the use of a spinal pattern generator (SPG) model to predict the muscular activation (EMG) patterns at the ankle joint during walking
 
-| file                   | description                                  |
+| script                 | description                                  |
 |------------------------|----------------------------------------------|
 | final_process          | Processing synchronized data (from pressure  |
 |                        | sensors, 3D motion data and EMG data)        |
