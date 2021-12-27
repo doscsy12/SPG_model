@@ -1,4 +1,4 @@
-# Spinal pattern generator (SPG) model
+## Spinal pattern generator (SPG) model
 Investigating the use of a spinal pattern generator (SPG) model to predict the muscular activation (EMG) patterns at the ankle joint during walking
 
 | script                 | description                                  |
@@ -18,7 +18,7 @@ Walking is a task which most people perform effortlessly on a daily basis. For h
 The aim of this study was to determine whether SPG in the spinal cord can directly influence motor output. We postulate that sensory afferents, which directly affect muscular activations, are mediated at the spinal level by pattern generators. The selection and modulation of afferents are due to the internal dynamics in the spinal cord which regulate the appropriate locomotor outputs, rather than relying on commands from higher centres (brain). 
 
 ## Method
-3D motion data, muscular activation (from 8 muscles) and pressure insoles (of the lower extremities) were collected from volunteers. An SPG model, based on recurrent neural networks, was built and validated with experimental data from normal walking. To determine whether the SPG can adapt to changes in sensory cues, we used the SPG model to predict muscular responses in three different situations where temporal and spatial parameters in a gait cycle will change: -
+3D motion data, muscular activation and pressure insoles (of the lower extremities) were collected from volunteers. An SPG model, based on recurrent neural networks, was built and validated with experimental data from normal walking. To determine whether the SPG can adapt to changes in sensory cues, we used the SPG model to predict muscular responses in three different situations where temporal and spatial parameters in a gait cycle will change: -
 
 1.	Sudden loss in loading afferents
 2.	Change in walking speed
