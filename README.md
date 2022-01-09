@@ -18,11 +18,12 @@ Walking is a task which most people perform effortlessly on a daily basis. For h
 The aim of this study was to determine whether SPG in the spinal cord can directly influence motor output. We postulate that sensory afferents, which directly affect muscular activations, are mediated at the spinal level by pattern generators. The selection and modulation of afferents are due to the internal dynamics in the spinal cord which regulate the appropriate locomotor outputs, rather than relying on commands from higher centres (brain). 
 
 ## Method
-3D motion data, muscular activation and pressure insoles (of the lower extremities) were collected from volunteers. An SPG model, based on recurrent neural networks, was built and validated with experimental data from normal walking. To determine whether the SPG can adapt to changes in sensory cues, we used the SPG model to predict muscular responses in three different situations where temporal and spatial parameters in a gait cycle will change: -
+3D motion data, muscular activation and pressure insoles (of the lower extremities) were collected from volunteers. An SPG model was developed. The model was tested on several datasets, mainly to determine whether the SPG can adapt to changes in sensory cues. We used the SPG model to predict muscular responses in normal walking and three different situations where temporal and spatial parameters in a gait cycle will change: -
 
-1.	Sudden loss in loading afferents
-2.	Change in walking speed
-3.	Silly walks
+1.  Normal walking
+2.	Sudden loss in loading afferents
+3.	Change in walking speed
+4.	Silly walks
 
 ## Conclusion
 An SPG model was developed and validated for normal walking ([Chong et al., 2012](https://link.springer.com/article/10.1007/s11517-012-0944-2)). This has strong implications into how humans possess the ability to adapt to changes to sensory afferents in our daily movements ([Cognitive Systems book series](https://link.springer.com/chapter/10.1007/978-3-642-36368-9_20)).
